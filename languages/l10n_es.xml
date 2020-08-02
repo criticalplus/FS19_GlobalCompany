@@ -178,5 +178,8 @@
 		<e k="GC_globalMarket_storeItem_squareBaleGrass" v="Paca cuadrada hierba"/>
 		<e k="GC_globalMarket_storeItem_roundBaleGrass" v="Paca redonda hierba"/>
 		<e k="GC_globalMarket_storeItem_cotton" v="Algodón"/>
+		
+		<!-- FarmStarter -->
+		<e k="GC_farmstarter_header" v="Elige tu camino."/>
 	</elements>
 </l10n>
